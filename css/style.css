@@ -1,4 +1,17 @@
 body{
+  color: #333;
   text-align: center;
   font-family: Arial;
+}
+
+#container{
+  width: 70½;
+  padding: 1em;
+  text-align: center;
+  border: 1px solid #DDD;
+  margin: 0 auto;
+}
+
+#container h1{
+  font-size: 30px;
 }
