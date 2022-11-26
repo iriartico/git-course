@@ -2,7 +2,8 @@ Bienvenido a la primera version de este archivo
 
 Autor: Jose Iriarte
 
-Colaborador: Nicolas Tesla
+Colaborador: Nicolas Tesla es un contribuidor de este proyecto Open Source
 
 PD: Su vida y su universo, Albert Einstein
+
 By: Walter Issaccson
