@@ -5,3 +5,4 @@
 * Las personalidades múltiples de Freddy
 * Creado por el increible Portento
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
