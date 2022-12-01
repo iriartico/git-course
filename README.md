@@ -4,3 +4,4 @@
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible Portento
+* Incluye ejemplos en Windows, Linux y Mac
